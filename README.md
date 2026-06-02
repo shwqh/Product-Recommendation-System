@@ -18,9 +18,9 @@ https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ### Dataset Information
 
-* Original Records: 1,067,371
-* Cleaned Records: 805,549
-* Attributes: 8
+- Original Records: 1,067,371
+- Cleaned Records: 805,549
+- Attributes: 8
 
 The dataset contains information about customer purchases, product descriptions, quantities, prices, invoice dates, and countries.
 
@@ -28,12 +28,12 @@ The dataset contains information about customer purchases, product descriptions,
 
 ## Project Objectives
 
-* Analyze customer purchasing behavior.
-* Identify popular products.
-* Discover product associations using Market Basket Analysis.
-* Generate personalized recommendations using Collaborative Filtering.
-* Compare different recommendation approaches.
-* Support marketing decision-making using data-driven insights.
+- Analyze customer purchasing behavior.
+- Identify popular products.
+- Discover product associations using Market Basket Analysis.
+- Generate personalized recommendations using Collaborative Filtering.
+- Compare different recommendation approaches.
+- Support marketing decision-making using data-driven insights.
 
 ---
 
@@ -55,27 +55,27 @@ Uses customer similarity based on purchase history to generate personalized prod
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Mlxtend
-* Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Mlxtend
+- Jupyter Notebook
 
 ---
 
 ## Project Structure
 
-* Data Loading
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Popularity-Based Recommendation
-* Association Rules Analysis (Apriori)
-* Collaborative Filtering
-* Model Comparison
-* Conclusion
+- Data Loading
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Popularity-Based Recommendation
+- Association Rules Analysis (Apriori)
+- Collaborative Filtering
+- Model Comparison
+- Conclusion
 
 ---
 
@@ -95,22 +95,22 @@ Uses customer similarity based on purchase history to generate personalized prod
 
 5. The notebook will perform:
 
-   * Data preprocessing
-   * Exploratory Data Analysis (EDA)
-   * Popularity-Based Recommendation
-   * Association Rules (Apriori)
-   * Collaborative Filtering
-   * Model Comparison
+   - Data preprocessing
+   - Exploratory Data Analysis (EDA)
+   - Popularity-Based Recommendation
+   - Association Rules (Apriori)
+   - Collaborative Filtering
+   - Model Comparison
 
 ---
 
 ## Key Findings
 
-* The dataset was cleaned from 1,067,371 records to 805,549 valid transactions.
-* Popularity-Based Recommendation identified the most purchased products.
-* Association Rules discovered frequently purchased product combinations.
-* Collaborative Filtering generated personalized recommendations based on customer similarity.
-* Collaborative Filtering provided the highest level of personalization among the implemented approaches.
+- The dataset was cleaned from 1,067,371 records to 805,549 valid transactions.
+- Popularity-Based Recommendation identified the most purchased products.
+- Association Rules discovered frequently purchased product combinations.
+- Collaborative Filtering generated personalized recommendations based on customer similarity.
+- Collaborative Filtering provided the highest level of personalization among the implemented approaches.
 
 ---
 
@@ -118,19 +118,9 @@ Uses customer similarity based on purchase history to generate personalized prod
 
 Course: Data Mining
 
-Instructor: Dr. Maha Jarallah
-
 Domain: Marketing
 
 Project Type: Product Recommendation System
-
----
-
-## Author
-
-Ashwag Ahmad Alqarni
-
-Student ID: 44780143
 
 ---
 
@@ -138,10 +128,10 @@ Student ID: 44780143
 
 This repository contains:
 
-* Jupyter Notebook implementation
-* Data preprocessing workflow
-* Exploratory Data Analysis (EDA)
-* Recommendation models
-* Model comparison
-* Project report
-* Presentation slides
+- Jupyter Notebook implementation
+- Data preprocessing workflow
+- Exploratory Data Analysis (EDA)
+- Recommendation models
+- Model comparison
+- Project report
+- Presentation slides
