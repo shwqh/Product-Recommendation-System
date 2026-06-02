@@ -89,7 +89,7 @@ Uses customer similarity based on purchase history to generate personalized prod
 
 3. Open the notebook:
 
-   Project_Ashwag_Alqarni.ipynb
+   Project_Ashwag.ipynb
 
 4. Run all notebook cells sequentially.
 
